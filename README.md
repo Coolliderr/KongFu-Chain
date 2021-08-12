@@ -5,5 +5,6 @@
 
 第二个文件是小狐狸钱包插件，供发币使用。
 
-具体内容请点击上方wiki菜单，会有白皮书等具体说明
+具体内容请点击上方wiki菜单，会有白皮书等具体说明。
  
+https://github.com/Coolliderr/KongFu-Chain/wiki
